@@ -1,0 +1,67 @@
+{
+  "id": 1108702837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.2591055,46.2347396,15.2591055,46.2347396",
+    "geom:latitude":46.23474,
+    "geom:longitude":15.259106,
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "sg:address":"oblakova 7",
+    "sg:city":"Celje",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"3000",
+    "sg:tags":[
+        "multimedia",
+        "sound",
+        "design",
+        "sound-engineer",
+        "sound-design",
+        "interactive-design"
+    ],
+    "sg:website":"http://www.jankosutnik.si",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bmF7xQ6mX5A7hj75OfReu_46.234740_15.259106@1308163241"
+    },
+    "wof:country":"SI",
+    "wof:created":1474570886,
+    "wof:geomhash":"ba9a475787dcf939e5a1cfcd1d324c88",
+    "wof:hierarchy":[],
+    "wof:id":1108702837,
+    "wof:lastmodified":1474570886,
+    "wof:name":"Multiso Multimedia Solutions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "multimedia",
+        "sound",
+        "design",
+        "sound-engineer",
+        "sound-design",
+        "interactive-design"
+    ]
+},
+  "bbox": [
+    15.2591055,
+    46.2347396,
+    15.2591055,
+    46.2347396
+],
+  "geometry": {"coordinates":[15.2591055,46.2347396],"type":"Point"}
+}

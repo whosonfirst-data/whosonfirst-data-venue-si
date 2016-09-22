@@ -1,0 +1,71 @@
+{
+  "id": 1108702843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.875225,46.419467,15.875225,46.419467",
+    "geom:latitude":46.419467,
+    "geom:longitude":15.875225,
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Osojnikova 3",
+    "sg:city":"Ptuj",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2250",
+    "sg:tags":[
+        "platform",
+        "on-demand",
+        "ondemand",
+        "crm",
+        "project-management",
+        "web",
+        "paas",
+        "customizable"
+    ],
+    "sg:website":"http://intera.si/en/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AXS2lRwwdg8xUcrX5yJVr_46.419467_15.875225@1308163238"
+    },
+    "wof:country":"SI",
+    "wof:created":1474570886,
+    "wof:geomhash":"f3a4aea7d1c3e10f9791f648992d5f58",
+    "wof:hierarchy":[],
+    "wof:id":1108702843,
+    "wof:lastmodified":1474570886,
+    "wof:name":"Intera",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "platform",
+        "on-demand",
+        "ondemand",
+        "crm",
+        "project-management",
+        "web",
+        "paas",
+        "customizable"
+    ]
+},
+  "bbox": [
+    15.875225,
+    46.419467,
+    15.875225,
+    46.419467
+],
+  "geometry": {"coordinates":[15.875225,46.419467],"type":"Point"}
+}

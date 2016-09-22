@@ -1,0 +1,85 @@
+{
+  "id": 1108702833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.3611417,46.2272708,14.3611417,46.2272708",
+    "geom:latitude":46.227271,
+    "geom:longitude":14.361142,
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Savska Loka 21c",
+    "sg:city":"Kranj",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"4000",
+    "sg:tags":[
+        "web2mobile",
+        "telecom",
+        "telco",
+        "community",
+        "multiplayer",
+        "qootia",
+        "igrajmo-se",
+        "polish",
+        "flash",
+        "push",
+        "mobile",
+        "iphone",
+        "android",
+        "rim",
+        "flash-lite"
+    ],
+    "sg:website":"http://www.3fs.si",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NgNsQJnyRfymkv503BxkE_46.227271_14.361142@1308163240"
+    },
+    "wof:country":"SI",
+    "wof:created":1474570886,
+    "wof:geomhash":"e6c6b140bf345e8d9edfcb686d9c6c6d",
+    "wof:hierarchy":[],
+    "wof:id":1108702833,
+    "wof:lastmodified":1474570886,
+    "wof:name":"ThirdFrameStudios",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web2mobile",
+        "telecom",
+        "telco",
+        "community",
+        "multiplayer",
+        "qootia",
+        "igrajmo-se",
+        "polish",
+        "flash",
+        "push",
+        "mobile",
+        "iphone",
+        "android",
+        "rim",
+        "flash-lite"
+    ]
+},
+  "bbox": [
+    14.3611417,
+    46.2272708,
+    14.3611417,
+    46.2272708
+],
+  "geometry": {"coordinates":[14.3611417,46.2272708],"type":"Point"}
+}

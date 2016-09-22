@@ -1,0 +1,92 @@
+{
+  "id": 1108702835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.513558,46.0618582,14.513558,46.0618582",
+    "geom:latitude":46.061858,
+    "geom:longitude":14.513558,
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zelezna cesta 18",
+    "sg:city":"Ljubljana",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1000",
+    "sg:tags":[
+        "vertical",
+        "search-engine",
+        "property",
+        "real-estate",
+        "nekretnine",
+        "nepremicnine",
+        "immobili",
+        "case",
+        "appartamenti",
+        "immobilien",
+        "reality"
+    ],
+    "sg:website":"http://gohome.hr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929731,
+        102191581,
+        85633779,
+        101752073,
+        85678051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CGmEaWLS2yIngUKlyeUxW_46.061858_14.513558@1308163240"
+    },
+    "wof:country":"SI",
+    "wof:created":1474570886,
+    "wof:geomhash":"ea9769b2ebf16fa64b28db475f35b0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "locality_id":101752073,
+            "neighbourhood_id":85929731,
+            "region_id":85678051,
+            "venue_id":1108702835
+        }
+    ],
+    "wof:id":1108702835,
+    "wof:lastmodified":1474570886,
+    "wof:name":"GoHome",
+    "wof:parent_id":85929731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vertical",
+        "search-engine",
+        "property",
+        "real-estate",
+        "nekretnine",
+        "nepremicnine",
+        "immobili",
+        "case",
+        "appartamenti",
+        "immobilien",
+        "reality"
+    ]
+},
+  "bbox": [
+    14.513558,
+    46.0618582,
+    14.513558,
+    46.0618582
+],
+  "geometry": {"coordinates":[14.513558,46.0618582],"type":"Point"}
+}

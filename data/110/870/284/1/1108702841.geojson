@@ -1,0 +1,82 @@
+{
+  "id": 1108702841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.494541,46.043851,14.494541,46.043851",
+    "geom:latitude":46.043851,
+    "geom:longitude":14.494541,
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Teslova 30",
+    "sg:city":"Ljubljana",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1000",
+    "sg:tags":[
+        "ai",
+        "consulting",
+        "research",
+        "nlp",
+        "text-processing",
+        "inference"
+    ],
+    "sg:website":"http://www.cyc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929727,
+        102191581,
+        85633779,
+        101752073,
+        85678051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CWrLwlp1PVYZ9hkquJoNh_46.043851_14.494541@1308163238"
+    },
+    "wof:country":"SI",
+    "wof:created":1474570886,
+    "wof:geomhash":"f01405373190627e0da6b2ea725556a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "locality_id":101752073,
+            "neighbourhood_id":85929727,
+            "region_id":85678051,
+            "venue_id":1108702841
+        }
+    ],
+    "wof:id":1108702841,
+    "wof:lastmodified":1474570886,
+    "wof:name":"Cycorp",
+    "wof:parent_id":85929727,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ai",
+        "consulting",
+        "research",
+        "nlp",
+        "text-processing",
+        "inference"
+    ]
+},
+  "bbox": [
+    14.494541,
+    46.043851,
+    14.494541,
+    46.043851
+],
+  "geometry": {"coordinates":[14.494541,46.043851],"type":"Point"}
+}

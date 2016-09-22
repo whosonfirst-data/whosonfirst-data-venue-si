@@ -1,0 +1,61 @@
+{
+  "id": 1108702825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"13.6409647,45.9689988,13.6409647,45.9689988",
+    "geom:latitude":45.968999,
+    "geom:longitude":13.640965,
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Velika pot 29",
+    "sg:city":"Solkan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5250",
+    "sg:tags":[
+        "web-design",
+        "web-applications",
+        "content-management-systems"
+    ],
+    "sg:website":"http://www.editor.si",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MEoUWqP3xLqDusG4N1sxQ_45.968999_13.640965@1308163239"
+    },
+    "wof:country":"SI",
+    "wof:created":1474570885,
+    "wof:geomhash":"a627636ec9ef7b0399261fd75b269d3a",
+    "wof:hierarchy":[],
+    "wof:id":1108702825,
+    "wof:lastmodified":1474570885,
+    "wof:name":"Editor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-design",
+        "web-applications",
+        "content-management-systems"
+    ]
+},
+  "bbox": [
+    13.6409647,
+    45.9689988,
+    13.6409647,
+    45.9689988
+],
+  "geometry": {"coordinates":[13.6409647,45.9689988],"type":"Point"}
+}
